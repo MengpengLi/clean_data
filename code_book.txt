@@ -1,0 +1,27 @@
+the required out put data frame for this assignment is shortList and the data frame for question 5 is TidyData by running the R script which is contained in the repo.
+
+the variables for both of them are listed like below:
+
+tBodyAcc-XYZ
+tGravityAcc-XYZ
+tBodyAccJerk-XYZ
+tBodyGyro-XYZ
+tBodyGyroJerk-XYZ
+tBodyAccMag
+tGravityAccMag
+tBodyAccJerkMag
+tBodyGyroMag
+tBodyGyroJerkMag
+fBodyAcc-XYZ
+fBodyAccJerk-XYZ
+fBodyGyro-XYZ
+fBodyAccMag
+fBodyAccJerkMag
+fBodyGyroMag
+fBodyGyroJerkMag
+
+for each of them, there are two measurements are selected and attached at the tail
+
+mean(): Mean value
+std(): Standard deviation
+
