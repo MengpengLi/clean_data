@@ -36,4 +36,5 @@ for(i in 1:30){
             TidyData <- rbind(TidyData,temp3)
       }
 }
-
+colnames(TidyData)[2] <- "activity"
+write.table(TidyData,"tidy.txt", row.names = FALSE)
